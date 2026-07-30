@@ -1,0 +1,2 @@
+[console_scripts]
+alarm = src.main:main
