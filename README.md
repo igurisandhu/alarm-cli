@@ -222,4 +222,4 @@ See [`doc/diagrams.md`](doc/diagrams.md) for:
 
 ## License
 
-MIT
+MIT# aws-job-alert
